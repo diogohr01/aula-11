@@ -1,0 +1,246 @@
+
+.header {
+    height: 100px;
+    width: 1024px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #222222;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    
+
+
+}
+
+.cabeçario {
+background-image: url(../img/Logo.png);
+width: 234px ;
+height: 80px;
+left: 20px;
+top: 15px;
+position: absolute;
+
+}
+
+.home {
+display: flex;
+justify-content: flex-start;
+position: absolute;
+width: 44px;
+height: 19px;
+left: 720px;
+top: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F3F3F3;
+
+}
+
+.Ranking {
+display: flex;
+justify-content: flex-end;
+position: absolute;
+width: 58px;
+height: 19px;
+left: 777px;
+top: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F3F3F3;
+}
+
+.Promoção {
+
+display: flex ;
+justify-content: flex-end;
+position: absolute;
+width: 74px;
+height: 19px;
+left: 848px;
+top: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F3F3F3;
+
+}
+
+.meio {
+    position: absolute;
+    width: 986px;
+    height: 350px;
+    left: 5px;
+    top: 135px;
+    
+} 
+.bloco-1 {
+
+    position: absolute;
+width: 490px;
+height: 350px;
+left: 20px;
+top: 0px;
+background-image: url(../img/delivery.jpg);
+}
+.paragrafo-bloco-1 {
+background-image: url(../img/Envio\ grátis\ comprando\ 2\ pizzas.png);
+position: absolute;
+width: 348px;
+height: 23px;
+left: 61px;
+top: 9px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FC200C;
+
+
+}
+.bloco-2 {
+
+    position: absolute;
+    width: 491px;
+    height: 350px;
+    left: 514px;
+    top: 0px;
+    
+    background: #ffffff;
+    border-radius: 5px;
+    border: solid coral;
+}
+
+.paragrafo-bloco-2 {
+
+background-image: url(../img/Cardápio\ de\ pizzas.jpg);
+position: absolute;
+width: 203px;
+height: 21px;
+left: 134px;
+top: 11px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FC200C;
+
+
+
+}
+.top-5 {
+
+    position: absolute;
+width: 110.44px;
+height: 23px;
+left: 73px;
+top: 85px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+
+color: #222222;
+
+}
+.imagem-bloco-2 {
+
+  background-image: url(../img/PizzaFalling.jpg); 
+  
+  position: absolute;
+width: 92px;
+height: 129px;
+left: 249px;
+top: 61px;
+border-radius: 5px;
+}
+
+.bloco-bloco-2 {
+
+    position: absolute;
+    width: 385px;
+    height: 250px;
+    left: 50px;
+    top: 89px;
+    
+    
+}
+.marcações {
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+justify-content: flex-start;
+align-items: stretch;
+color: #222222;
+position: absolute;
+width: 200px;
+height: 5px;
+left: -40px;
+top: 26px;
+font-size: 14px;
+
+}
+.borda-baixo {
+
+    position: absolute;
+    width: 1024px;
+    height: 150px;
+    
+    bottom: 8px;
+    
+    background: #222222;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.image-borda {
+    background-image: url(../img/Logo.png);
+width: 234px ;
+height: 80px;
+left:750px;
+top: 35px;
+position: absolute;
+}
+
+.cabeçario-2 {
+    display: flex;
+    flex-direction: column;
+ 
+justify-content: stretch ;
+position: absolute;
+width: 48px;
+height: 8px;
+
+font-size: 12px;
+color: #F3F3F3
+
+
+
+}
+
